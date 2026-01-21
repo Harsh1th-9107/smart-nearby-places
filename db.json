@@ -1,0 +1,40 @@
+{
+  "places": [
+    {
+  "id": 1,
+  "name": "Focus Lab",
+  "type": "coworking",
+  "distance": 1.6,
+  "rating": 4.6,
+  "price": 2,
+  "open": true,
+  "description": "Dedicated study space with library ambience. Perfect for students and remote workers.",
+  "tags": ["WiFi", "Quiet", "24/7"],
+  "image": "https://images.unsplash.com/photo-1497366216548-37526070297c"
+},
+    {
+      "id": 2,
+      "name": "Brew & Books",
+      "type": "cafe",
+      "distance": 2.1,
+      "rating": 4.7,
+      "price": 2,
+      "open": true,
+      "wifi": true,
+      "quiet": true,
+      "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+    },
+    {
+      "id": 3,
+      "name": "WorkHub Central",
+      "type": "coworking",
+      "distance": 2.8,
+      "rating": 4.5,
+      "price": 3,
+      "open": true,
+      "wifi": true,
+      "quiet": false,
+      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d"
+    }
+  ]
+}

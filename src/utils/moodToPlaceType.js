@@ -1,8 +1,13 @@
+// src/utils/moodToPlaceType.js
+
 const moodToPlaceType = {
-  work: ["cafe", "library", "coworking_space"],
-  date: ["restaurant", "cafe", "movie_theater"],
-  quick_bite: ["fast_food", "bakery"],
-  budget: ["street_food", "food_court"],
+  work: ["coworking", "cafe"],
+  study: ["coworking", "cafe"],
+  quick: ["cafe"],
+  chill: ["cafe"],
+  luxury: ["coworking", "cafe"],
+  family: ["cafe"],
+  date: ["cafe"]
 };
 
 export default moodToPlaceType;

@@ -1,7 +1,9 @@
-export function calculateDistance(lat1, lng1, lat2, lng2) {
+// src/utils/calculateDistance.js
+
+function calculateDistance(lat1, lng1, lat2, lng2) {
   const toRad = (value) => (value * Math.PI) / 180;
 
-  const R = 6371; // Earth radius in KM
+  const R = 6371; // Earth radius in km
   const dLat = toRad(lat2 - lat1);
   const dLng = toRad(lng2 - lng1);
 
@@ -13,5 +15,8 @@ export function calculateDistance(lat1, lng1, lat2, lng2) {
       Math.sin(dLng / 2);
 
   const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-  return R * c; // distance in KM
+
+  return R * c; // distance in km
 }
+
+export default calculateDistance;
