@@ -24,22 +24,22 @@ All screenshots represent the live deployed version of the application.
 ## 📸 Screenshots
 
 ### Home
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ### Login
-![Login](screenshots/login.png)
+![Login](login.png)
 
 ### Signup
-![Signup](screenshots/signup.png)
+![Signup](signup.png)
 
 ### Mood Selection
-![Mood](screenshots/mood-selection.png)
+![Mood Selection](mood-selection.png)
 
 ### Results List
-![Results](screenshots/results-list.png)
+![Results List](results-list.png)
 
 ### Filters
-![Filters](screenshots/filters.png)
+![Filters](filters.png)
 
 ### Place Details
-![Place Details](screenshots/place-details.png)
+![Place Details](place-details.png)
