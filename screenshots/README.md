@@ -19,3 +19,27 @@ These images are used in the main `README.md` to visually demonstrate:
 - Place details page
 
 All screenshots represent the live deployed version of the application.
+
+
+## 📸 Screenshots
+
+### Home
+![Home](screenshots/home.png)
+
+### Login
+![Login](screenshots/login.png)
+
+### Signup
+![Signup](screenshots/signup.png)
+
+### Mood Selection
+![Mood](screenshots/mood-selection.png)
+
+### Results List
+![Results](screenshots/results-list.png)
+
+### Filters
+![Filters](screenshots/filters.png)
+
+### Place Details
+![Place Details](screenshots/place-details.png)
