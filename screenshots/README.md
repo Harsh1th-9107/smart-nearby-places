@@ -33,10 +33,10 @@ All screenshots represent the live deployed version of the application.
 ![Signup](screenshots/signup.png)
 
 ### Mood Selection
-![Mood](screenshots/mood-selection.png)
+![Mood Selection](screenshots/mood-selection.png)
 
 ### Results List
-![Results](screenshots/results-list.png)
+![Results List](screenshots/results-list.png)
 
 ### Filters
 ![Filters](screenshots/filters.png)
